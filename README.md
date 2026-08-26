@@ -1,30 +1,23 @@
-NeetCode 150
+**NeetCode 150 🧠**
 
-A personal journey through 150 algorithmic problems, focused on understanding patterns, improving problem-solving, and building stronger DSA fundamentals.
+This repository documents my journey through NeetCode 150, where I’ll be practicing and solving LeetCode problems to strengthen my DSA and problem-solving skills.
 
-Each solution is a step toward getting better at recognizing patterns rather than simply memorizing answers.
+The goal isn't just to collect accepted solutions. I want to understand the patterns behind the problems, learn to approach unfamiliar questions, and gradually become more confident at solving them independently.
 
-🧠 Topics
-Arrays & Hashing
-Two Pointers
-Sliding Window
-Stack
-Binary Search
-Linked List
-Trees
-Tries
-Heap / Priority Queue
-Backtracking
-Graphs
-Dynamic Programming
-Greedy
-Intervals
-Math & Geometry
-Bit Manipulation
-🎯 Goal
+**🎯 What I'm focusing on**
+Practicing consistently
+Understanding problem-solving patterns
+Writing clean and efficient solutions
+Learning from mistakes and failed approaches
+Improving time and space complexity
+Building strong DSA fundamentals
 
-Understand → Solve → Analyze → Improve
 
-This repository will grow alongside the journey. 🚧
+**📈 The Journey**
 
-The number is fixed. The learning isn't.
+This is a work in progress. I'll keep documenting my solutions as I move through the problems, including the approaches and patterns I learn along the way.
+
+One problem at a time. One pattern at a time. 🚀
+
+Started: August 2026
+Goal: Complete all 150 problems.
